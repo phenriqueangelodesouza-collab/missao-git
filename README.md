@@ -30,8 +30,8 @@ Construir uma estrutura organizada e colaborativa para um portal de fãs que re�
 
 |👑 Função|Nome|GitHub|Responsabilidades|
 |-|-|-|-|
-|**Líder**|\[Nome do Integrante A]|`@\[User\_Lider]`|Organização geral, revisão e aprovação das entregas|
-|**Colaborador**|\[Nome do Integrante B]|`@\[User\_Colaborador]`|Desenvolvimento de conteúdo e criação de arquivos|
+|**Líder**|\Pedro Henrique | phenriqueangelodesouza-collab |Organização geral, revisão e aprovação das entregas|
+|**Colaborador**|\João Victor| Jota Rodrigues|Desenvolvimento de conteúdo e criação de arquivos|
 
 \---
 
@@ -59,16 +59,16 @@ PowerGirls-Pucca/
 │   ├── Pucca
 │   └── Garu
 ├── frases/                   # Frases icônicas por personagem
-│   ├── frases\_powergirls.md
-│   └── frases\_pucca.md
+│   ├── frases\_index.html
+│   └── frases\_frases-marcantes.docx
 ├── curiosidades/             # Teorias e curiosidades das séries
-│   ├── curiosidades\_powergirls.md
-│   ├── curiosidades\_pucca.md
-│   └── easter\_eggs.md
-├── imagens/                  # Recursos visuais
-│   └── (imagens dos personagens)
+│   ├── curiosidades\_docinho.docx
+│   ├── curiosidades\_lindinha.docx
+│   ├── curiosidades\_garu.docx
+│   ├── curiosidades\_pucca.docx
+│   ├── curiosidades\_florzinha.docx
 ├── desafios/                 # Arquivos das missões e dinâmicas
-│   └── missoes.md
+│   └── index.html
 ├── fanclub/                  # Área de cadastro de fãs (bônus)
 │   └── cadastro\_fas.md
 ```
