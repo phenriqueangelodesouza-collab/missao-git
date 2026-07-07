@@ -1,102 +1,143 @@
-# \# 🌸 Portal PowerGirls \& Pucca 🌟
+# 🌸 Portal PowerGirls \& Pucca 🌟
 
-# 
+> \*\*Status do Projeto:\*\* ✅ \*\*Concluído\*\*
+> 
+> \*Missão Cartoon Studio Software — Fluxo Colaborativo com Git \& GitHub\*
 
-# > \*\*Status do Projeto:\*\* Concluído ✅ (Missão Cartoon Studio Software)
+\---
 
-# 
+## 📌 Sobre o Projeto
 
-# Bem-vindo ao repositório oficial do primeiro portal de fãs focado no universo de \*As Meninas Superpoderosas\* e \*Pucca\*! Este projeto foi desenvolvido como uma prova prática de fluxo colaborativo utilizando Git e GitHub.
+Bem-vindo ao **Portal PowerGirls \& Pucca**, um espaço dedicado ao universo de **As Meninas Superpoderosas** 💪 e **Pucca** 🥟.
 
-# 
+Este repositório foi desenvolvido como uma prova prática de fluxo colaborativo, simulando um ambiente real de desenvolvimento em equipe usando **Git** e **GitHub**.
 
-# \---
+\---
 
-# 
+## 🎯 Objetivo do Projeto
 
-# \## 🎯 Objetivo do Projeto
+Construir uma estrutura organizada e colaborativa para um portal de fãs que reúne:
 
-# O objetivo principal é construir uma estrutura organizada e colaborativa para um portal de fãs, simulando o ambiente real de desenvolvimento de uma empresa de tecnologia. O projeto integra informações sobre os personagens, suas frases marcantes, curiosidades e uma interface visual.
+* 📚 **Informações sobre os personagens** — Detalhes e curiosidades das personagens
+* 💬 **Frases marcantes** — Diálogos icônicos do universo
+* ✨ **Curiosidades** — Teorias e fatos interessantes
+* 🎨 **Interface visual** — Páginas em HTML e CSS (bônus)
+* 👥 **Comunidade de fãs** — Área de fanclub (bônus)
 
-# 
+\---
 
-# \---
+## 👥 Integrantes da Dupla
 
-# 
+|👑 Função|Nome|GitHub|Responsabilidades|
+|-|-|-|-|
+|**Líder**|\[Nome do Integrante A]|`@\[User\_Lider]`|Organização geral, revisão e aprovação das entregas|
+|**Colaborador**|\[Nome do Integrante B]|`@\[User\_Colaborador]`|Desenvolvimento de conteúdo e criação de arquivos|
 
-# \## 👥 Integrantes da Equipe
+\---
 
-# 
+## 🎨 Tema Escolhido
 
-# | Foto | Nome | Usuário GitHub | Papel no Projeto |
+**As Meninas Superpoderosas \& Pucca** — Um portal temático reunindo dois universos de animação marcantes:
 
-# | :---: | :--- | :---: | :--- |
+* 🔴 **Florzinha (Blossom)** — Líder, inteligente e poderosa
+* 🟠 **Lindinha (Bubbles)** — Sensível, meiga e compassiva
+* 🔵 **Docinho (Buttercup)** — Corajosa, forte e destemida
+* 🥟 **Pucca** — Ninja culinária, apaixonada por Garu
+* 💚 **Garu** — Objeto do afeto de Pucca
 
-# | 👑 | \[Nome do Integrante A] | `@\[User\_Lider]` | \*\*Líder do Projeto\*\* (Organização, revisão e aprovação) |
+\---
 
-# | 🛠️ | \[Seu Nome Aqui] | `@\[User\_Colaborador]` | \*\*Colaborador\*\* (Desenvolvimento de conteúdo e páginas locais) |
+## 📁 Estrutura de Pastas
 
-# 
+```
+PowerGirls-Pucca/
+├── README.md                 # Documentação do projeto
+├── personagens/              # Fichas dos 5 personagens principais
+│   ├── Florzinha
+│   ├── Lindinha
+│   ├── Docinho
+│   ├── Pucca
+│   └── Garu
+├── frases/                   # Frases icônicas por personagem
+│   ├── frases\_powergirls.md
+│   └── frases\_pucca.md
+├── curiosidades/             # Teorias e curiosidades das séries
+│   ├── curiosidades\_powergirls.md
+│   ├── curiosidades\_pucca.md
+│   └── easter\_eggs.md
+├── imagens/                  # Recursos visuais
+│   └── (imagens dos personagens)
+├── desafios/                 # Arquivos das missões e dinâmicas
+│   └── missoes.md
+├── fanclub/                  # Área de cadastro de fãs (bônus)
+│   └── cadastro\_fas.md
+```
 
-# \---
+### 📖 Descrição das Pastas
 
-# 
+|Pasta|Conteúdo|Descrição|
+|-|-|-|
+|**personagens/**|5 arquivos `.md`|Fichas completas dos personagens Florzinha, Lindinha, Docinho, Pucca e Garu com personalidades e histórias|
+|**frases/**|Arquivos temáticos|Frases marcantes e diálogos icônicos dos personagens, organizados por série|
+|**curiosidades/**|Múltiplos arquivos|Fun facts, trivia sobre as séries e histórias curiosas do universo|
+|**desafios/**|Documentação|Registros das missões e dinâmicas realizadas durante o projeto|
+|**fanclub/** ⭐|Cadastro de fãs|Simulação de registro de comunidade de fãs (entrega bônus)|
 
-# \## 📁 Estrutura de Pastas
+\---
 
-# 
+## 🛠️ Tecnologias Utilizadas
 
-# Abaixo está a descrição da organização lógica do nosso repositório:
+* **Git** — Controle de versão distribuído
+* **GitHub** — Hospedagem e colaboração
+* **Markdown** — Formatação e documentação
+* **HTML5** — Estrutura das páginas (bônus)
+* **CSS3** — Estilização visual (bônus)
 
-# 
+\---
 
-# \* \*\*`personagens/`\*\*: Contém arquivos individuais com a descrição, personalidade e detalhes criativos de Florzinha, Lindinha, Docinho, Pucca e Garu.
+## 📖 Manual de Contribuição
 
-# \* \*\*`frases/`\*\*: Espaço reservado para o registro de frases marcantes e icônicas dos personagens para futuras publicações.
+Se você deseja contribuir com este projeto, siga o fluxo colaborativo:
 
-# \* \*\*`curiosidades/`\*\*: Arquivos separados com fatos curiosos e teorias divididas de forma temática sobre as duas animações.
+### 1️⃣ Antes de começar
 
-# \* \*\*`imagens/`\*\* / \*\*`portal/`\*\*: Armazena os arquivos visuais e as páginas estruturadas em HTML e CSS que dão vida à interface do portal.
+```bash
+git pull origin main
+```
 
-# \* \*\*`desafios/`\*\*: Pasta destinada às missões e arquivos surpresa da nossa dinâmica de trabalho.
+### 2️⃣ Fluxo recomendado
 
-# \* \*\*`fanclub/`\*\* \*(Bônus)\*: Área extra criada para simular o cadastro e controle de fãs dedicados do portal.
+1. **Atualize** sua cópia local do repositório
+2. **Crie** uma nova branch para sua funcionalidade
 
-# 
+```bash
+   git checkout -b feature/sua-funcionalidade
+   ```
 
-# \---
+3. **Desenvolva** sua contribuição respeitando a estrutura de pastas
+4. **Faça commits** claros e objetivos
 
-# 
+```bash
+   git commit -m "Descrição clara do que foi alterado"
+   ```
 
-# \## 🛠️ Tecnologias Utilizadas
+5. **Envie** sua branch para o GitHub
 
-# 
+```bash
+   git push origin feature/sua-funcionalidade
+   ```
 
-# \* \*\*Git\*\*: Controle de versão local e gerenciamento de branches.
+6. **Abra um Pull Request** para revisão do Líder
 
-# \* \*\*GitHub\*\*: Hospedagem do repositório remoto, controle de Issues e fluxo colaborativo.
+### 3️⃣ Boas práticas
 
-# \* \*\*HTML5 \& CSS3\*\*: Para a estilização minimalista e moderna das páginas dos personagens.
+* ✅ Não sobrescreva o trabalho de colegas
+* ✅ Comunique alterações importantes
+* ✅ Mantenha nomes de arquivos coerentes e em minúsculas
+* ✅ Use mensagens de commit descritivas
+* ✅ Revise antes de fazer push
 
-# \* \*\*Markdown\*\*: Para a estruturação e estilização desta documentação.
+\---
 
-# 
 
-# \---
-
-# 
-
-# \## 📖 Pequeno Manual de Contribuição (Como Colaborar)
-
-# 
-
-# Se você é um novo desenvolvedor e quer ajudar a expandir o portal, siga este fluxo básico adotado pela nossa equipe:
-
-# 
-
-# 1\. \*\*Atualize o seu projeto local\*\*: Antes de começar, garanta que sua máquina tem a versão mais recente do repositório:
-
-# &#x20;  ```bash
-
-# &#x20;  git pull origin main
 
