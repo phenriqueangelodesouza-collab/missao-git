@@ -67,13 +67,12 @@ PowerGirls-Pucca/
 │   ├── curiosidades\_garu.docx
 │   ├── curiosidades\_pucca.docx
 │   ├── curiosidades\_florzinha.docx
-├── desafios/                 # Arquivos das missões e dinâmicas
+├── imagens/                 # Arquivos das missões e dinâmicas
 │   └── index.html
 │   └── lindinha.jpg
 ├── imagens/                 # Arquivos das missões e dinâmicas
 │   └── desafio.html
-├── fanclub/                  # Área de cadastro de fãs (bônus)
-│   └── cadastro\_fas.md
+
 ```
 
 ### 📖 Descrição das Pastas
